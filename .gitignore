@@ -1,3 +1,8 @@
 ~/.gitignore_global
 
-ART1\Library
+ART1/Library
+
+Temp/
+obj/
+Build
+Library/
